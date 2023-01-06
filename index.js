@@ -67,7 +67,7 @@ function Github() {
 
 function Telegram() {
     setTimeout(function() {
-            window.open('https://t.me/vominhtu', 'ultimate')
+            window.open('https://t.me/NghiepMeow', 'ultimate')
         },
         100);
 }
